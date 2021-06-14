@@ -7,23 +7,27 @@ Materiais gerais de Programação II do [Prof. Igor Machado Coelho](https://igor
 Lista completa de módulos (PREVISTOS) no repositório:
 
 - Introdução à linguagem C
-   -   TIPOS PRIMITIVOS DE DADOS; TIPOS ESTRUTURADOS DE DADOS; OPERADORES ARITMÉTICOS, CONDICIONAIS, LÓGICOS E DE ATRIBUIÇÃO; ENTRADA E SAÍDA PADRÃO; ESTRUTURAS DE SELEÇÃO E REPETIÇÃO; PROCEDIMENTOS E FUNÇÕES; ESCOPO E VARIÁVEIS GLOBAIS
+   - TIPOS PRIMITIVOS DE DADOS; TIPOS ESTRUTURADOS DE DADOS; OPERADORES ARITMÉTICOS, CONDICIONAIS, LÓGICOS E DE ATRIBUIÇÃO; ENTRADA E SAÍDA PADRÃO; ESTRUTURAS DE SELEÇÃO E REPETIÇÃO; PROCEDIMENTOS E FUNÇÕES; ESCOPO E VARIÁVEIS GLOBAIS
+   - Tópico avançado: otimização de código e flags de compilação
 - Gerência de Memória
    - ALOCAÇÃO ESTÁTICA; PONTEIROS
-   - PASSAGEM DE PARÂMETROS POR VALOR E POR REFERÊNCIA
+   - PASSAGEM DE PARÂMETROS POR VALOR E POR REFERÊNCIA (tópico híbrido em C/C++)
+   - Alocação Dinâmica (?) - (tópico híbrido em C/C++)
 - PROGRAMAÇÃO COM MÓDULOS
+   - Tópico avançado: GNU make e bazel
 - RECURSIVIDADE (EDSI?)
 - TAD
    - Conceitos e Implementações diversas
-   - Sacos e Listas (EDSI)
-   - Listas Avançadas
-   - Fila e Pilha (EDSI)
+   - Implementações de Listas
+      - Tópico avançado: Sacos e Listas (ED)
+      - Tópico avançado: Fila e Pilha (ED)
    - Matriz
 - ARQUIVOS
+   - Tópico avançado: leitura de arquivos de grande porte
 
 Materiais PDF-HTML:
 
-TBD
+- TBD
 
 
 ***Observação:*** **alguns módulos só são oferecidos para cursos específicos.*
